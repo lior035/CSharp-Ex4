@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\obj\x86\Debug\Ex04.Menus.Test.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\obj\x86\Debug\Ex04.Menus.Test.exe
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה רביעי\A14 Ex04 LiorAsulin 304826753 OrOfer 301123725\Ex04.Menus.Test\obj\x86\Debug\Ex04.Menus.Test.pdb
